@@ -8,3 +8,6 @@ y[1] = "cambio de papeles"
 x = tuple(y)
 
 print(x)
+print("Listado de elementos de la tupla canciones ciclo for")
+for lara in canciones:
+    print(lara)
